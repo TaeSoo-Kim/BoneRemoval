@@ -11,5 +11,5 @@ Current models and performance.
 | Mingqing Baseline + BN | 0.055      |   0.9664| 0.0866 | 0.976|x|x|x
 | Decomp Net             | 0.0901     |    0.9768 |0.0699|0.978|0.980|x|x
 | Decomp Net+(ReLU->BN)  | 0.0635     |    0.9857 |0.0619|0.981|x|x|x
-| Decomp Net+(BN->ReLU)  | 0.0612     |    0.9860 |0.05649|0.982|x|x|x
+| Decomp Net+(BN->ReLU)  | 0.0612     |    0.9860 |0.05649|**0.982**|x|x|x
 | Resnet_decomp       | 0.0928     |    0.9760 |0.07340|0.976|x|x|x
