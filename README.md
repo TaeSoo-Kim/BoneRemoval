@@ -23,7 +23,7 @@ BoneRemoval Project for Siemens HC Medical Imaging Team, summer 2016.
 | Decomp Net             | 0.1045 | 0.9727 | 0.0797 | 0.9730 | x | **34.74** | 9.297 | 7416 
 | Decomp Net+(BN->ReLU)  | 0.0822 | 0.9794 | 0.0689 |**0.980**| x | x | x | 7416
 | Resnet_decomp          | x | x | x |x | x | x | x | 6248
-| Baseline filtergroup v1| 0.0789 | 0.9727 | 0.0841 | 0.9730 | 76 | x | x | 46968
-| Baseline filtergroup v2| 0.1053 | 0.9657 | 0.1072 | 0.9653 | 36.5 | x | x | 21992
-| Decomp filtergroup v1  | 0.0924 | 0.9738 | 0.0792 | 0.9726 | 26.5 | x | x | 4696
+| Baseline filtergroup v1| 0.0789 | 0.9727 | 0.0841 | 0.9730 | x | 76 | x | 46968
+| Baseline filtergroup v2| 0.1053 | 0.9657 | 0.1072 | 0.9653 | x | 36.5 | x | 21992
+| Decomp filtergroup v1  | 0.0924 | 0.9738 | 0.0792 | 0.9726 | x | 26.5 | x | 4696
 | Decomp filtergroup v2  | x | x | x | x | x | **15.5** | x | **2216**
