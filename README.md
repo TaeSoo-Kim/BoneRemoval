@@ -8,7 +8,7 @@ BoneRemoval Project for Siemens HC Medical Imaging Team, summer 2016.
 
 | Model | Training Loss | Training Accuracy | Validation Loss | Validation Accuracy  | Test Set Accuracy | CPU Time(s)| GPU Time(s) |#Params
 | ---|:---:|:---:|:---:| :---:|:---:|:---:|:---:|:---:|:---:|
-|  Baseline              | x | x | x | x | x | 194.54 | **5.49** | 68920|
+|  Baseline              | 0.0717 | 0.9782 | 0.0809 | 0.9723 | x | 194.54 | **5.49** | 68920|
 |  Baseline+(BN->ReLU)   | x | x | x | x | x | 204.06 | 6.40 | 68920|
 | Decomp Net             | 0.1045 | 0.9727 | 0.0797 | 0.9730 | x | 64.70 | 6.94 | 7416 
 | Decomp Net+(BN->ReLU)  | 0.0822 | 0.9794 | 0.0689 |**0.980**| x | 88.21 | 13.09 | 7416
