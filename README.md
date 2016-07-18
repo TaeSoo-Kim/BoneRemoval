@@ -16,4 +16,4 @@ BoneRemoval Project for Siemens HC Medical Imaging Team, summer 2016.
 | Baseline filtergroup v2| 0.1821 | 0.9374 | 0.1575 | 0.9436 | x | 66.80 | 6.32 | 21992
 | Decomp filtergroup v1  | 0.1989 | 0.9377 | 0.1545 | 0.9448 | x | 37.80 | 13.83 | 4696
 | Decomp filtergroup v2  | 0.2465 | 0.9150 | 0.1916 | 0.9284 | x | **32.72** | 18.00 | **2216**
-| Decomp filtergroup v2, student | 0.2431 | 0.9320 | 0.1806 | 0.9460 | x | x | x | 6248
+| Decomp filtergroup v2, student | 0.2431 | 0.9320 | 0.1806 | 0.9460 | x | x | x | **2216**
